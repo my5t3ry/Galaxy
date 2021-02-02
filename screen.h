@@ -3,8 +3,8 @@
 #include <iostream>
 #include <string>
 
-constexpr int WIDTH = 950, HEIGHT = 670;
-constexpr int dW = 8, dH = 8;
+constexpr int WIDTH = 1950, HEIGHT = 1950;
+constexpr int dW = 6, dH = 14;
 
 class Screen {
 public:
